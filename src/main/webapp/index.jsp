@@ -1,5 +1,3 @@
-This is a complete HTML document for a modern, user-friendly e-commerce shop page. It features a clean layout with a sticky header, product grid, flash sale timer, and customer testimonials, all styled for a pleasant browsing experience.
-```html
 <!doctype html>
 <html lang="en">
 <head>
